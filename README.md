@@ -1,3 +1,3 @@
 # DAM - Mobile Application Development 
 
-Suport de seminar este disponibil in sectiunea Wiki
+Suportul de seminar este disponibil in sectiunea Wiki
