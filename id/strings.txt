@@ -1,0 +1,8 @@
+    <string name="add_player_save">Salveaza</string>
+    <string name="add_player_left_hand">Stanga</string>
+    <string name="add_player_right_hand">Dreapta</string>
+    <string name="add_player_fav_hand">Mana favorita</string>
+    <string name="add_player_position">Pozitia</string>
+    <string name="add_player_number_hint">Numar</string>
+    <string name="add_player_name_hint">Nume</string>
+    <string name="add_player_brithday_hint">Ziua de nastere</string>
