@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.TransferMarketFragment">
+
+    <Button
+        android:id="@+id/transfer_market_btn_goalkeeper"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.31"
+        android:text="@string/transfer_market_btn_goalkeeper"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toStartOf="@id/transfer_market_btn_inter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/transfer_market_btn_inter"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.23"
+        android:text="@string/transfer_market_btn_inter"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toStartOf="@id/transfer_market_btn_center"
+        app:layout_constraintStart_toEndOf="@id/transfer_market_btn_goalkeeper"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/transfer_market_btn_center"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.23"
+        android:text="@string/transfer_market_btn_center"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toStartOf="@id/transfer_market_btn_winger"
+        app:layout_constraintStart_toEndOf="@id/transfer_market_btn_inter"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/transfer_market_btn_winger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.23"
+        android:text="@string/transfer_market_btn_winger"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/transfer_market_btn_center"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
