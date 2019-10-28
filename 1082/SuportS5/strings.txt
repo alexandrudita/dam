@@ -1,0 +1,8 @@
+    <string name="transfer_market_btn_goalkeeper">Portar</string>
+    <string name="transfer_market_btn_inter">Inter</string>
+    <string name="transfer_market_btn_center">Centru</string>
+    <string name="transfer_market_btn_winger">Extrema</string>
+    <string name="about_tv_version">V 1.0</string>
+    <string name="about_tv_team">Grupe: 1076, 1077, 1078, 1081, 1082</string>
+    <string name="about_tv_year">Anul 2019</string>
+    <string name="about_tv_application_title">Dam App</string>
