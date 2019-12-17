@@ -1,2 +1,0 @@
-        <uses-library android:name="org.apache.http.legacy"
-            android:required="false"/>
