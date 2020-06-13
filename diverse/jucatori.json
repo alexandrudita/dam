@@ -1,0 +1,36 @@
+{
+  "echipa": {
+    "jucatori": [
+      {
+        "nume": "Popescu Daniel",
+        "numar": 12,
+	"dataNasterii":"11/01/1990",
+	"pozitie":"atacant"
+      },
+      {
+        "nume": "Ionescu Marian",
+        "numar": 10,
+	"dataNasterii":"11/03/1994",
+	"pozitie":"mijlocas"
+      },
+      {
+        "nume": "Moise Daniel",
+        "numar": 1,
+	"dataNasterii":"21/11/1989",
+	"pozitie":"portar"
+      },
+      {
+        "nume": "Vlascianu Iosif",
+        "numar": 2,
+	"dataNasterii":"11/01/1987",
+	"pozitie":"fundas"
+      },
+      {
+        "nume": "Mircioiu Andrei",
+        "numar": 8,
+	"dataNasterii":"10/12/1991",
+	"pozitie":"mijlocas"
+      }
+    ]
+  }
+}
