@@ -2,7 +2,7 @@
 
 Suportul de seminar este disponibil in sectiunea Wiki
 
-## ATENTIE!!! 
+### ATENTIE!!! 
 Daca platforma online.ase.ro este indisponibila va rog sa verificati sectiunea WIKI din acest git pentru accesul la ZOOM.
 
 ### Contact 
