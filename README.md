@@ -3,14 +3,14 @@
 Suportul de seminar este disponibil in sectiunea Wiki
 
 ### Orar DAM 2020-2021
-Marti:
+**Marti:**
 * Grupa 1088: 9:30-11:20
 * Grupa 1087: 11:30-13:20
 
-Joi:
+**Joi:**
 * Grupa 1086: 9:30-11:20
 
-Sambata:
+**Sambata:**
 * Grupa 1085: 9:30-11:20
 
 
