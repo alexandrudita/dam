@@ -1,5 +1,8 @@
 # DAM - Mobile Application Development 
 
+# ANUNT RESTANTA 
+## Pe online.ase.ro am adaugat sectiunea 'Proiect restanta' in care puteti gasi toate detaliile despre transmiterea proiectului.(mesajul este adresat atat celor de la ZI cat si celor de la ID) 
+
 Suportul de seminar este disponibil in sectiunea Wiki
 
 ### Orar DAM 2020-2021
