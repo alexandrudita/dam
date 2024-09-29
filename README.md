@@ -2,14 +2,14 @@
 
 Suportul de seminar este disponibil in sectiunea Wiki
 
-## Orar DAM 2023-2024
+## Orar DAM 2024-2025
 
-### Marti:
-* Grupa 1088, ora 10:30, sala 2320
-* Grupa 1084, ora 12:00, sala 2320
+### Luni:
+* Grupa 1092, ora 07:30, sala 2013B
+* Grupa 1089, ora 09:00, sala 2013B
 
-### Joi:
-* Grupa 1097, ora 10:30, sala 2013B
+### Vineri:
+* Grupa 1100, ora 07:30, sala 2001A
 
 ### Contact 
 Email: alexandru.dita@csie.ase.ro
