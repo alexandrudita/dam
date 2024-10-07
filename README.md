@@ -1,8 +1,8 @@
-# DAM - Mobile Application Development 
+# :computer: DAM - Mobile Application Development 
 
 Suportul de seminar este disponibil in sectiunea Wiki
 
-## Orar DAM 2024-2025
+## :date: Orar DAM 2024-2025
 
 ### Luni:
 * Grupa 1092, ora 07:30, sala 2013B
@@ -11,5 +11,5 @@ Suportul de seminar este disponibil in sectiunea Wiki
 ### Vineri:
 * Grupa 1100, ora 07:30, sala 2001A
 
-### Contact 
-Email: alexandru.dita@csie.ase.ro
+### :speech_balloon: Contact 
+:e-mail: alexandru.dita@csie.ase.ro
