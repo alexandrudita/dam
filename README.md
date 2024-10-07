@@ -11,5 +11,4 @@ Suportul de seminar este disponibil in sectiunea Wiki
 ### Vineri:
 * Grupa 1100, ora 07:30, sala 2001A
 
-### :speech_balloon: Contact 
-:e-mail: alexandru.dita@csie.ase.ro
+### :e-mail: alexandru.dita@csie.ase.ro
